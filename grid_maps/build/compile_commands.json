@@ -1,0 +1,32 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/gg/world_model/grid_maps/include",
+      "-I/usr/include/eigen3",
+      "-g",
+      "-c",
+      "-o",
+      "CMakeFiles/grid_map.dir/src/main.cpp.o",
+      "/home/gg/world_model/grid_maps/src/main.cpp"
+    ],
+    "directory": "/home/gg/world_model/grid_maps/build",
+    "file": "/home/gg/world_model/grid_maps/src/main.cpp",
+    "output": "/home/gg/world_model/grid_maps/build/CMakeFiles/grid_map.dir/src/main.cpp.o"
+  },
+  {
+    "arguments": [
+      "/usr/bin/c++",
+      "-I/home/gg/world_model/grid_maps/include",
+      "-I/usr/include/eigen3",
+      "-g",
+      "-c",
+      "-o",
+      "CMakeFiles/grid_map.dir/src/grid_map.cpp.o",
+      "/home/gg/world_model/grid_maps/src/grid_map.cpp"
+    ],
+    "directory": "/home/gg/world_model/grid_maps/build",
+    "file": "/home/gg/world_model/grid_maps/src/grid_map.cpp",
+    "output": "/home/gg/world_model/grid_maps/build/CMakeFiles/grid_map.dir/src/grid_map.cpp.o"
+  }
+]
