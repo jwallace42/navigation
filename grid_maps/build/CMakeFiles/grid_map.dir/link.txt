@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/grid_map.dir/src/main.cpp.o CMakeFiles/grid_map.dir/src/grid_map.cpp.o -o grid_map 

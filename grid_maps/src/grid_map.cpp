@@ -5,6 +5,9 @@
 namespace grid_map
 {
     // template<typename T>
+    // GridMap::GridMap<typename T>(int length, int width, float resolution, T value)
+    // {}
+    // template<typename T>
     // GridMap::GridMap(int length, int width, float resolution, T value)
     // {
     //     length_ = length;
