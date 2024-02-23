@@ -29,6 +29,7 @@ LookupTable computeDistanceTable(int rows, int cols)
 //   return distance_lookup_table;
 // }
 
+
 LookupTable computeDistance(int x_size, int y_size, int bin_size)
 {
   // Row major
@@ -50,6 +51,8 @@ int binDiff(int i, int f, int bin_size) {
   }
   return diff;
 };
+
+
 
 
 int main()

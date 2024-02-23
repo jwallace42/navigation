@@ -1,1 +1,0 @@
-/usr/lib/ccache/c++ -rdynamic CMakeFiles/MyExecutable.dir/glut.cpp.o -o MyExecutable  -lGL -lGLU -lglut -lXmu -lXi 

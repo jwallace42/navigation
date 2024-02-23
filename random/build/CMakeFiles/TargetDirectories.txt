@@ -1,3 +1,0 @@
-/home/josh/navigation/random/build/CMakeFiles/MyExecutable.dir
-/home/josh/navigation/random/build/CMakeFiles/edit_cache.dir
-/home/josh/navigation/random/build/CMakeFiles/rebuild_cache.dir
